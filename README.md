@@ -31,13 +31,13 @@ __Part 3:__  Naive Bayes classification and hyperparameter tuning.\
 __Part 4:__  LSTM classification and hyperparameter tuning.\
 __Part 5:__  BERT classification and hyperparameter tuning.\
 __Part 6:__  grid search results are visualized to find the optimal model.\
-__Part 7:__ re-train our best model on the whole training set, and evaluate it one test set. 
+__Part 7:__ re-train our best model on the whole training set, and evaluate it on test set. 
     
 Note: functions needed in neural network training and evaluation are all stored in __"utilities.py"__. 
 
 ## 4. Environment
 
-      To ensure replicability, our environment and package versions are listed below. 
+To ensure replicability, our environment and package versions are listed below. 
       Python 3.8.8;
       d2lzh 1.0.0;
       ipykernel 5.3.4;
@@ -50,7 +50,7 @@ Note: functions needed in neural network training and evaluation are all stored 
       scikit-learn 0.24.1;
       tensorboard 2.11.0;
       tqdm 4.64.1.
-    To replicate our results, please follow the detailed comments in __"main.pynb"__. 
+To replicate our results, please follow the detailed comments in "main.pynb". 
 
 ## References:
 [1] Go, A., Bhayani, R., and Huang, L. (2009). Twitter sentiment classification using distant supervision.
