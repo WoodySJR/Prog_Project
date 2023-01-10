@@ -1,6 +1,6 @@
 ## 1. Project introduction
 
-In this project, we focus on the sentiment analysis of Tweets (i.e. messages posted on Twitter), and analyze how text pre-processing techniques and different machine learning algorithms affect the accuracy of sentiment analysis. To be more specific, in this work we focus on two major text pre-processing techniques namely "lemmatization" and "stopword deletion", and three machine learning algorithm namely Naive Bayes, LSTM and BERT. 
+In this project, we focus on the sentiment analysis of Tweets (i.e. messages posted on Twitter), and analyze how text pre-processing techniques and different machine learning algorithms affect the accuracy of sentiment analysis. To be more specific, in this work we focus on two major text pre-processing techniques namely "lemmatization" and "stopword deletion", and three machine learning algorithms namely Naive Bayes, LSTM and BERT. 
 
 What's noteworthy is that we propose a novel measure called NFDF to identify important words, in order to construct the vocabulary for a Naive Bayes classifier, and write a Python Class in which Naive Bayes is implemented from scratch(stored in __"naive_bayes.py"__). Besides, for the sake of convenience, we integrate all our text pre-processing functions into a Python Class(stored in __"preprocess.py"__).
 
