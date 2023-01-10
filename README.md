@@ -38,6 +38,7 @@ Note: functions needed in neural network training and evaluation are all stored 
 ## 4. Environment
 
 To ensure replicability, our environment and package versions are listed below. 
+      
       Python 3.8.8;
       d2lzh 1.0.0;
       ipykernel 5.3.4;
@@ -50,6 +51,7 @@ To ensure replicability, our environment and package versions are listed below.
       scikit-learn 0.24.1;
       tensorboard 2.11.0;
       tqdm 4.64.1.
+      
 To replicate our results, please follow the detailed comments in "main.pynb". 
 
 ## References:
