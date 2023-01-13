@@ -1,4 +1,4 @@
-## 1. Project introduction
+## 1. Project Introduction
 
 In this project, we focus on the sentiment analysis of Tweets (i.e. messages posted on Twitter), and analyze how text pre-processing techniques and different machine learning algorithms affect the accuracy of sentiment analysis. To be more specific, in this work we focus on two major text pre-processing techniques namely "lemmatization" and "stopword deletion", and three machine learning algorithms namely Naive Bayes, LSTM and BERT. 
 
